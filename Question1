@@ -1,0 +1,3 @@
+How many multiplications and additions do you need to perform a matrix multiplication between a (n, k) and (k, m) matrix? Explain.
+
+Answer: The resultant matrix formed will be a (n,m) martix. For each element in the resultant matrix we require k multiplications and k-1 additions. Total n*m*k multiplications and n*m*(k-1) additions are required.
